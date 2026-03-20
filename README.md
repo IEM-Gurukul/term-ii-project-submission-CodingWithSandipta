@@ -1,43 +1,30 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pG3gvzt-)
-# PCCCS495 – Term II Project
+# Smart Elevator Control System
 
-## Project Title
+This project implements a smart elevator control system in Java, simulating elevator operations with state management and user interface.
 
----
+## Project Structure
 
-## Problem Statement (max 150 words)
-
----
-
-## Target User
-
----
-
-## Core Features
-
-- 
-- 
-- 
-
----
-
-## OOP Concepts Used
-
-- Abstraction:
-- Inheritance:
-- Polymorphism:
-- Exception Handling:
-- Collections / Threads:
-
----
-
-## Proposed Architecture Description
-
----
+- `src/`: Contains the main source code
+  - `Main.java`: Entry point of the application
+  - `controller/`: Controller classes for elevator logic
+  - `model/`: Data models for elevator and requests
+  - `state/`: State pattern implementation for elevator states
+  - `ui/`: User interface components
+  - `exception/`: Custom exception classes
+- `docs/`: Documentation files
+- `report/`: Project reports
+- `slides/`: Presentation slides
 
 ## How to Run
 
----
+1. Ensure Java is installed on your system.
+2. Compile the project: `javac -sourcepath src src/Main.java`
+3. Run the application: `java -cp src Main`
 
-## Git Discipline Notes
-Minimum 10 meaningful commits required.
+## Features
+
+- Elevator state management
+- Request handling
+- Console-based user interface
+- Exception handling for invalid operations
+
