@@ -110,9 +110,10 @@ src/
 
 ## 📊 Documentation
 
-* 📄 Project Report: [text](<../Desktop/OOPs Project.pdf>)
+* 📄 Project Report: [text](file:///C:/Users/Sandip%20Bhattacharyya/Desktop/OOPs%20Project.pdf)
 * 🎥 Demo Video: <video controls src="Tech Company.mp4" title="Title"></video>
-* 📐 UML Diagram: [text](../Downloads/eraser-export-export-3-29-2026-10_28_17-PM)
+* 📐 UML Diagram: [text](<img width="1449" height="2632" alt="diagram-export-3-29-2026-10_28_17-PM" src="https://github.com/user-attachments/assets/33534547-3864-4458-89a1-e21c5c0a8684" />
+)
 
 ---
 
